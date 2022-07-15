@@ -26,7 +26,7 @@ class Second_Splash extends StatelessWidget {
                   width: 20,
                 ),
                 Text(
-                  "HouesQue",
+                  "HouseQue",
                   style: GoogleFonts.montserrat(
                     fontSize: 32,
                     color: Color(0xff000000),
